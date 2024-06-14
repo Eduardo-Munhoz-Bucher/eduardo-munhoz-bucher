@@ -1,4 +1,4 @@
-## Fala Devs, eu sou o Eduardo 💻
+## 💻
 <br>
 <div align="center">
   <a href="https://github.com/eduardo-munhoz-bucher">
