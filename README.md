@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Eduardo e eu sou Desenvolvedor FrontEnd.</p>
+<p align="left">Sou Desenvolvedor Front-End com foco em criar interfaces modernas e intuitivas.</p>
 
 ###
 
